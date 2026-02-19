@@ -1,4 +1,5 @@
 # CodeTech_UIUX_Designing_internship_Taks
+
 Task 1: Bakery profile → complete brand with storytelling &amp; navigation. 
 Every great brand has a story waiting to be told. When I discovered Zed The Baker's original MyTribe page, I found a gem hidden in plain sight—a passionate baker with a dream to bring Parisian vibes to Bengaluru, but his digital presence was just a simple list of products with prices. The soul, the story, the magic of "flour on hands and butter in hair" was buried beneath basic text.
 
@@ -72,4 +73,8 @@ After my Design
 
 
 
-Task 2: Fully responsive page with fluid grids &amp; mobile nav. Tasks 3-4: Coming Soon.
+Task 2: Fully responsive page with fluid grids &amp; mobile nav. 
+the task 2 is stored in this repo
+https://github.com/Navaneeth-2929/uiux-bakery-redesign.git
+
+Tasks 3-4: Coming Soon.
