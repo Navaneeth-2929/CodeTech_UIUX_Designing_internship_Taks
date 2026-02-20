@@ -65,14 +65,9 @@ Why? Interactive elements engage users and make exploration fun.
 Before: Hard-to-find location info
 After: Prominent location block with working Google Maps, clear address, and hours
 
-
-After Redesigning :<img width="1208" height="6479" alt="127 0 0 1_5500_index html (3)" src="https://github.com/user-attachments/assets/01381817-9196-4208-aeb5-ec171e99f831" />
-
-
 Why? If customers can't find you, they can't visit you.
 
-
-
+After Redesigning :<img width="1208" height="6479" alt="127 0 0 1_5500_index html (3)" src="https://github.com/user-attachments/assets/01381817-9196-4208-aeb5-ec171e99f831" />
 
 
 
