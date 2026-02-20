@@ -4,6 +4,9 @@ Every great restaurant has a story waiting to be savored. When I discovered Svar
 
 This redesign became a mission: transform a basic restaurant page into a warm, inviting digital space that feels like stepping into an authentic Indian kitchen.
 
+Before Design :<img width="1208" height="5396" alt="svarasakitchen com_" src="https://github.com/user-attachments/assets/8f499bd1-99aa-40ad-a444-8e9dcf7094ee" />
+
+
 ->The Challenge
 The Original Page Had:
 * Heavy hero image with unreadable text overlay
@@ -61,6 +64,10 @@ Why? Interactive elements engage users and make exploration fun.
 5. From Hidden to Accessible
 Before: Hard-to-find location info
 After: Prominent location block with working Google Maps, clear address, and hours
+
+
+After Redesigning :<img width="1208" height="6479" alt="127 0 0 1_5500_index html (3)" src="https://github.com/user-attachments/assets/01381817-9196-4208-aeb5-ec171e99f831" />
+
 
 Why? If customers can't find you, they can't visit you.
 
