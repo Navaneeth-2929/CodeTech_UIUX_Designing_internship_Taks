@@ -72,6 +72,6 @@ Why? If customers can't find you, they can't visit you.
 
 Task 2: Fully responsive page with fluid grids &amp; mobile nav. 
 the task 2 is stored in this repo
-[https://github.com/Navaneeth-2929/uiux-bakery-redesign.git](https://github.com/Navaneeth-2929/Svarasa-Indian-Kitchen-Redesign.git)
+https://github.com/Navaneeth-2929/Svarasa-Indian-Kitchen-Redesign.git
 
 Tasks 3-4: Coming Soon.
