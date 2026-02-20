@@ -1,71 +1,68 @@
-# CodeTech_UIUX_Designing_internship_Taks
+Task 1: Restaurant Website Transformation
+ The Story Behind the Redesign
+Every great restaurant has a story waiting to be savored. When I discovered Svarasa Indian Kitchen's original website, I found a treasure of authentic Indian flavors hidden behind a heavy, text-heavy design. The philosophy of "taste begins with truth" was there, but it was buried under cluttered information and uninviting visuals.
 
-Task 1: Bakery profile → complete brand with storytelling &amp; navigation. 
-Every great brand has a story waiting to be told. When I discovered Zed The Baker's original MyTribe page, I found a gem hidden in plain sight—a passionate baker with a dream to bring Parisian vibes to Bengaluru, but his digital presence was just a simple list of products with prices. The soul, the story, the magic of "flour on hands and butter in hair" was buried beneath basic text.
+This redesign became a mission: transform a basic restaurant page into a warm, inviting digital space that feels like stepping into an authentic Indian kitchen.
 
-This redesign became a mission: transform a forgotten profile into a digital experience that makes your mouth water and your heart feel warm.
-
-The Challenge
+->The Challenge
 The Original Page Had:
+* Heavy hero image with unreadable text overlay
 
-* Just 4 product listings with prices
+* No clear navigation or structure
 
-* No navigation or structure
+* Scattered information (reservations, hours, location all disconnected)
 
-* Zero brand personality
+* Zero visual hierarchy
 
-* No location information
+* No brand identity or warmth
 
-* No way to connect or engage
+* Generic template feel
 
-The Vision Became:
+->The Vision Became:
+* A warm, terracotta-infused color palette
 
-* A complete brand experience
+* Clear, inviting hero section with logo and simple intro
 
-* The founder's inspiring journey
+* Smooth horizontal sliding cards for offerings
 
-* Mouth-watering service showcases
+* Powerful storytelling section ("taste begins with truth")
 
-* Easy-to-find Bengaluru locations
+* Fully integrated reservation system
 
-* A website that feels like walking into a Parisian bakery
+* Working Google Maps for easy location access
 
+* A website that feels like home-cooked comfort
 
-What Design Decisions That Made the Difference
-1. From Products to Stories
-Before: "The Fudge Factor - $9.99 - Order Now"
-After: "Artisan Bakery & Café – We bake Parisian croissants, cheesecakes, handcrafted macarons, and artisan confectionary."
+-> Design Decisions That Made the Difference
+1. From Heavy to Welcoming
+Before: Dark, overwhelming hero image with repeated text
+After: Clean hero section with elegant logo, simple tagline, and warm spices imagery
 
-Why? People don't just buy products—they buy experiences, memories, and the promise of that perfect first bite.
+Why? First impressions matter. A restaurant website should welcome you, not overwhelm you.
 
-2. From Anonymous to Personal
-Before: No story, just items
-After: "Hey, I'm Zed The Baker. Started out in 2018 with a wild idea—bring Paris vibes right into Bengaluru."
+2. From Scattered to Organized
+Before: Reservations, special requests, hours all in different places
+After: Unified reservation card with form, WhatsApp integration, and complete info block
 
-Why? Behind every great bakery is a baker with a dream. Share the dream, and customers become part of the journey.
+Why? Customers should find everything they need in one intuitive flow.
 
-3. From Hidden to Accessible
-Before: No locations listed
-After: Indiranagar · Cunningham Road · Church Street · Bowring Institute
+3. From Generic to Authentic
+Before: No brand personality
+After: "At Svarasa, taste begins with truth" – a powerful philosophy brought to life with elegant typography and warm imagery
 
-Why? A beautiful website means nothing if customers can't find you. Make it easy for them to visit.
+Why? Authenticity builds trust. Showcasing their commitment to honest cooking creates emotional connection.
 
+4. From Static to Interactive
+Before: Basic text links
+After: Smooth horizontal sliding cards showcasing 6 offerings, each with hover effects
 
-Redesigned in Figma: transformed a basic bakery profile into a complete brand experience with storytelling, navigation, and emotional design.
-https://www.figma.com/proto/kq9NtBhnrfuiwws6b1EIZd/Zed-The_Baker_Redesign?node-id=0-1&t=mCMbyF5bvcRUQ6TB-1
-<img width="1918" height="978" alt="image" src="https://github.com/user-attachments/assets/fdd5b53d-8d24-43ec-ba01-c7830373a173" />
+Why? Interactive elements engage users and make exploration fun.
 
-# uiux-bakery-redesign
-Complete redesign of Zed The Baker's landing page. Features a custom artistic logo, interactive cards with expandable content, and a responsive layout using their brand colors (blue, pink, green). Built with HTML, CSS, and JavaScript as part of a UI/UX internship task.
+5. From Hidden to Accessible
+Before: Hard-to-find location info
+After: Prominent location block with working Google Maps, clear address, and hours
 
-
-#screenshots 
-Before
-<img width="1208" height="4096" alt="Before webpage" src="https://github.com/user-attachments/assets/1b6fb655-a1e8-4e74-9964-44a9f091e197" />
-
-After my Design
-
-<img width="1208" height="3880" alt="127 0 0 1_5500_index html (2)" src="https://github.com/user-attachments/assets/63b037ad-55d8-4f1a-a20d-69117ff30c75" />
+Why? If customers can't find you, they can't visit you.
 
 
 
