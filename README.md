@@ -2,6 +2,7 @@ Task 1: Restaurant Website Transformation
 
 
 https://www.figma.com/proto/Mg9gAlKz9zRqSgYCodX5Uj/svarasa_redesign?node-id=2-5&t=oKGdcTIyoxZdNlTa-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
+ 
  The Story Behind the Redesign
 Every great restaurant has a story waiting to be savored. When I discovered Svarasa Indian Kitchen's original website, I found a treasure of authentic Indian flavors hidden behind a heavy, text-heavy design. The philosophy of "taste begins with truth" was there, but it was buried under cluttered information and uninviting visuals.
 
