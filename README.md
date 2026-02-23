@@ -7,6 +7,9 @@ https://www.figma.com/proto/Mg9gAlKz9zRqSgYCodX5Uj/svarasa_redesign?node-id=2-5&
 Every great restaurant has a story waiting to be savored. When I discovered Svarasa Indian Kitchen's original website, I found a treasure of authentic Indian flavors hidden behind a heavy, text-heavy design. The philosophy of "taste begins with truth" was there, but it was buried under cluttered information and uninviting visuals.
 
 This redesign became a mission: transform a basic restaurant page into a warm, inviting digital space that feels like stepping into an authentic Indian kitchen.
+Before image : <img width="1208" height="5396" alt="svarasakitchen com_ (1)" src="https://github.com/user-attachments/assets/cf88054f-e33c-4aa1-9cda-3d17a0f27885" />
+
+After image : <img width="1208" height="6479" alt="127 0 0 1_5500_index html (3)" src="https://github.com/user-attachments/assets/16aa62a1-4fa7-4029-b7e1-48f41fcc317d" />
 
 ->The Challenge
 The Original Page Had:
