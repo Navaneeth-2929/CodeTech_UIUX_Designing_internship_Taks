@@ -81,4 +81,7 @@ After Redesigning :<img width="1208" height="6479" alt="127 0 0 1_5500_index htm
 the task 2 is stored in this repo
 https://github.com/Navaneeth-2929/Svarasa-Indian-Kitchen-Redesign.git
 
-Tasks 3-4: Coming Soon.
+Tasks 3:
+
+Before redesigning : https://www.figma.com/design/N0ld4ocbamf6NBrU3qJlnS/Swiggy_App_before_redesign?node-id=0-1&t=vTJjQQ0hkLZIh58h-1
+Task-4: Coming Soon.
