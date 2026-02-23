@@ -81,7 +81,22 @@ After Redesigning :<img width="1208" height="6479" alt="127 0 0 1_5500_index htm
 the task 2 is stored in this repo
 https://github.com/Navaneeth-2929/Svarasa-Indian-Kitchen-Redesign.git
 
-Tasks 3:
+Tasks 3:MOBILE APP REDESIGN
+
+I analyzed the original Swiggy app and noticed a major frustration: users who order the same food regularly have to search for their favorite restaurant and dish every single time, taking 8 to 10 taps and nearly a minute to complete their order. This becomes incredibly tedious for daily lunch orders or weekly Friday night cravings.
+
+My redesign solves this by introducing a "Your Regular" section on the home screen that displays the user's three most frequently ordered items. Now, instead of searching through menus, users can simply tap their favorite biryani or burger and reorder instantly with just one tap. What used to take 45 seconds now takes only 3 seconds.
+
+I also added an order confirmation screen that shows delivery time and tracking options, plus a schedule feature that lets users automate their weekly orders—like setting Chicken Biryani to auto-order every Friday at 8 PM. The home screen layout is cleaner and less cluttered, with the "Your Regular" section getting priority placement because it's what matters most to returning customers.
+
+The result transforms a frustrating repetitive task into a delightful one-second experience, making the app feel personalized, intelligent, and truly user-centered.
+
 
 Before redesigning : https://www.figma.com/design/N0ld4ocbamf6NBrU3qJlnS/Swiggy_App_before_redesign?node-id=0-1&t=vTJjQQ0hkLZIh58h-1
-Task-4: Coming Soon.
+<img width="970" height="800" alt="Swiggy_app_before_redesign" src="https://github.com/user-attachments/assets/2afccfa1-a540-4313-8bda-cc7a4b37a9c4" />
+
+
+After redesigning : https://www.figma.com/proto/taHra9dMw1gRtKe8eVQwvP/Untitled?node-id=1-137&t=kYcNjs7ZQGO1U3RR-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=0%3A3
+<img width="1230" height="528" alt="Screenshot 2026-02-24 010139" src="https://github.com/user-attachments/assets/fd607f59-232c-4470-b062-296757d8c5f0" />
+
+Task-4: AR/VR INTERFACE DESIGN.
