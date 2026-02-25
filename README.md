@@ -104,3 +104,9 @@ Task-4: AR/VR INTERFACE DESIGN.
 Augmented Reality (AR) has revolutionized how users interact with digital content by overlaying virtual objects onto the real world. For this task, I designed an AR furniture placement application that allows users to visualize sofas, tables, and chairs in their actual living spaces before making a purchase decision. This addresses a critical pain point in online furniture shopping: "Will this sofa actually look good in my room?"
 
 I designed an AR furniture placement app called 'ARrange' that lets users visualize sofas and tables in their real living spaces. The interface includes five screens: a home screen with categories, an AR camera view with 3D object placement, a selected item view with adjustment controls, an expanded adjustment panel, and a purchase confirmation screen. Key design decisions include using semi-transparent overlays to maintain camera visibility, adding realistic shadows to virtual objects for depth perception, and positioning all controls within thumb reach for mobile comfort. The color palette uses blue for trust and green for success, while gesture-based interactions (tap to place, drag to move, pinch to scale) feel natural and intuitive. This design addresses the real pain point of uncertainty in online furniture shopping, helping users make confident purchase decisions.
+<img width="1193" height="413" alt="Screenshot 2026-02-25 235153" src="https://github.com/user-attachments/assets/653a7a93-e3a8-4229-a117-b324fa60e88c" />
+
+or
+
+https://www.figma.com/design/cDnhJEMUNUM0DwyGFgkR1D/AR-Furniture-App-Redesign?node-id=0-1&t=nNsA4Tz65gVdZk1c-1
+
