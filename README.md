@@ -103,30 +103,4 @@ Task-4: AR/VR INTERFACE DESIGN.
 
 Augmented Reality (AR) has revolutionized how users interact with digital content by overlaying virtual objects onto the real world. For this task, I designed an AR furniture placement application that allows users to visualize sofas, tables, and chairs in their actual living spaces before making a purchase decision. This addresses a critical pain point in online furniture shopping: "Will this sofa actually look good in my room?"
 
-The core philosophy behind this design is "See it before you buy it." Traditional e-commerce forces users to imagine how furniture will look in their homes, leading to hesitation, returns, and dissatisfaction. By leveraging AR technology, this app bridges the gap between digital shopping and physical reality.
-
-Three guiding principles shaped this design:
-Intuitiveness – Interactions should feel natural, like handling real objects
-Immersiveness – The camera view should remain primary; UI should never obstruct the experience
-Simplicity – Complex AR controls must be presented in the simplest possible way
-
-*Screen 1: Home Screen
-Purpose: Introduce the app and guide users to start their AR experience.
-
-Design Choices:
-Clean layout with categories – Users can browse furniture types (Sofas, Tables, Chairs, etc.) before entering AR, setting clear expectations
-"Popular Picks" section – Showcases trending items to inspire users
-Prominent "Start AR Camera" button – The primary call-to-action uses AR Blue (#4169E1) to draw attention
-
-Why this works: Users need a familiar starting point. The home screen mirrors e-commerce apps they already understand, reducing the learning curve for AR technology.
-
-*Screen 2: AR Camera View 
-Purpose: The core experience—placing virtual furniture in the real world.
-Why this works: Every UI element respects the camera view. Shadows make the sofa feel physically present, while the distance indicator and crosshair give users precise control over placement.
-
-*Screen 3: Furniture Selected
-Purpose: Confirm selection and provide basic adjustment options.
-
-Screen 4: Adjust Controls (Expanded)
-Purpose: Provide detailed control over furniture placement.
-Why this works: When users need to fine-tune placement, they shouldn't be distracted by other options. The expanded panel dedicates full attention to adjustment tasks.
+I designed an AR furniture placement app called 'ARrange' that lets users visualize sofas and tables in their real living spaces. The interface includes five screens: a home screen with categories, an AR camera view with 3D object placement, a selected item view with adjustment controls, an expanded adjustment panel, and a purchase confirmation screen. Key design decisions include using semi-transparent overlays to maintain camera visibility, adding realistic shadows to virtual objects for depth perception, and positioning all controls within thumb reach for mobile comfort. The color palette uses blue for trust and green for success, while gesture-based interactions (tap to place, drag to move, pinch to scale) feel natural and intuitive. This design addresses the real pain point of uncertainty in online furniture shopping, helping users make confident purchase decisions.
